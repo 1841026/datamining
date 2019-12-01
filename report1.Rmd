@@ -1,6 +1,6 @@
 ---
 title: "データ解析入門 レポート1"
-author: "1234567 工大太郎"
+author: "1841026 大川駿介"
 output: html_document
 ---
 
